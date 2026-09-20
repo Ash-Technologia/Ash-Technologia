@@ -1,129 +1,85 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Aayush Singhavi — Automation, Robotics, AI and Embedded Systems"/>
+# `AAYUSH SINGHAVI`
 
-<br/>
+### **Automation & Robotics Engineering**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=1600&color=8B6CFF&center=true&vCenter=true&width=680&lines=Building+intelligent+physical+systems.;Robotics+%2B+AI+%2B+Embedded+Systems.;Turning+real-world+problems+into+working+systems." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1100&color=6C8CFF&center=true&vCenter=true&width=780&height=50&lines=ROBOTICS+%2B+AI+%2B+EMBEDDED+SYSTEMS;BUILDING+INTELLIGENT+PHYSICAL+SYSTEMS;TURNING+REAL-WORLD+PROBLEMS+INTO+WORKING+SYSTEMS" />
 
-<br/><br/>
+<br>
 
-<a href="https://github.com/Ash-Technologia">
-<img src="https://img.shields.io/badge/GitHub-Ash--Technologia-0B0F14?style=for-the-badge&logo=github&logoColor=E8ECF4" />
+<img src="https://img.shields.io/badge/ROBOTICS-4F6FFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-7057FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EMBEDDED-596DFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOFTWARE-825CFF?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://github.com/Ash-Technologia">GitHub</a>
+  •   <a href="https://www.linkedin.com/in/aayush-singhavi-b34035383/">LinkedIn</a>
+
+</div>
+
+---
+
+### `ABOUT`
+
+I'm **Aayush Singhavi**, an **Automation & Robotics Engineering student** building at the intersection of **robotics, artificial intelligence, embedded systems and software**.
+
+I like taking real-world problems and turning them into **designed, tested and working systems**.
+
+---
+
+### `ENGINEERING STACK`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,arduino,raspberrypi,react,nodejs,typescript,mongodb,pytorch,opencv,git,docker,linux&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Robotics-4F6FFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Embedded-596DFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-7057FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-765FFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/IoT-6575FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Automation-825CFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full%20Stack-5268E8?style=flat-square"/>
+
+</div>
+
+---
+
+### `PROJECTS`
+
+<div align="center">
+
+<a href="https://github.com/Ash-Technologia/Fathom">
+<img src="https://img.shields.io/badge/FATHOM-Repository%20Intelligence-4F6FFF?style=for-the-badge"/>
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/aayush-singhavi-b34035383/">
-<img src="https://img.shields.io/badge/LinkedIn-Aayush%20Singhavi-0B0F14?style=for-the-badge&logo=linkedin&logoColor=4F7CFF" />
+
+<a href="https://github.com/Ash-Technologia/Jarvis_DoomsDay">
+<img src="https://img.shields.io/badge/JARVIS-Experimental%20AI-7057FF?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Ash-Technologia/Aayush-Helalth-Care">
+<img src="https://img.shields.io/badge/AAYUSH%20HEALTH%20CARE-Full--Stack-596DFF?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Ash-Technologia/AMT_WEB">
+<img src="https://img.shields.io/badge/AMT-MERN%20E--Commerce-825CFF?style=for-the-badge"/>
 </a>
 
 </div>
 
 ---
 
-## About
-
-I'm **Aayush Singhavi**, an **Automation & Robotics Engineering student** interested in building intelligent systems at the intersection of **robotics, AI, embedded systems and software**.
-
-I enjoy taking real-world problems from **idea → architecture → prototype → working system**.
-
-My work spans autonomous systems, embedded engineering, computer vision, IoT, automation and full-stack software.
-
-> **Build systems. Solve problems. Make things real.**
-
----
-
-## Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,arduino,raspberrypi,react,nodejs,typescript,mongodb,pytorch,opencv,git,docker,linux&theme=dark" />
+### `BUILD · BREAK · UNDERSTAND · REBUILD`
 
-<br/><br/>
+<br>
 
-`Robotics` · `Embedded Systems` · `AI/ML` · `Computer Vision` · `IoT` · `Automation` · `Full Stack` · `CAD/CAM`
-
-</div>
-
----
-
-## Projects
-
-### Fathom
-
-**Local-first repository intelligence CLI**
-
-Developer tooling focused on understanding and analyzing software repositories.
-
-`Python` · `CLI` · `Developer Tooling`
-
-→ [View Repository](https://github.com/Ash-Technologia/Fathom)
-
-### JARVIS — DoomsDay
-
-**Experimental AI assistant**
-
-Exploring voice interaction, intelligent automation and system-level assistance.
-
-`Python` · `AI` · `Automation`
-
-→ [View Repository](https://github.com/Ash-Technologia/Jarvis_DoomsDay)
-
-### Aayush Health Care
-
-**Full-stack healthcare platform**
-
-Digital platform covering authentication, appointments, consultations, payments and administration.
-
-`React` · `Node.js` · `Express` · `MongoDB`
-
-→ [View Repository](https://github.com/Ash-Technologia/Aayush-Helalth-Care)
-
-### AMT
-
-**MERN e-commerce platform**
-
-Full-stack commerce system with products, authentication, cart, checkout, payments and administration.
-
-`React` · `Node.js` · `Express` · `MongoDB`
-
-→ [View Repository](https://github.com/Ash-Technologia/AMT_WEB)
-
----
-
-## Currently Exploring
-
-`🤖 Robotics`
-`🧠 Physical AI`
-`⚡ Embedded Systems`
-`👁️ Computer Vision`
-`🚗 Autonomous Systems`
-`🏭 Industrial Automation`
-`ROS / ROS 2`
-
----
-
-## What I'm Interested In
-
-Robotics & Autonomous Systems · AI/ML · Embedded Systems · IoT · Control Systems · Industrial Automation · Computer Vision · Mechatronics · Drones · EV Systems · CAD/CAM · 3D Printing
-
----
-
-<div align="center">
-
-### Let's build something meaningful.
-
-<br/>
-
-<a href="https://github.com/Ash-Technologia">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-4F7CFF?style=for-the-badge&labelColor=070B14" />
-</a>
-
-<a href="https://www.linkedin.com/in/aayush-singhavi-b34035383/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-8B6CFF?style=for-the-badge&labelColor=070B14" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B6CFF,50:111A32,100:070B14&height=80&section=footer" width="100%"/>
+<img src="https://img.shields.io/badge/ROBOTICS%20×%20AI%20×%20EMBEDDED-4F6FFF?style=for-the-badge"/>
 
 </div>
